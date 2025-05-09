@@ -81,12 +81,6 @@ namespace ThiGK
             Form mh = new Danhmucmonhoc();
             mh.Show();
         }
-        private void btn_danhmuckhoa_Click(object sender, EventArgs e)
-        {
-            Form kh = new Danhmucackhoa();
-            kh.Show();
-        }
-
         private void btn_thongtintk_Click(object sender, EventArgs e)
         {
 
@@ -94,6 +88,12 @@ namespace ThiGK
         private void btnShowAll_Click(object sender, EventArgs e)
         {
             loadSinhVien();
+        }
+
+        private void btn_danhmuccackhoa_Click(object sender, EventArgs e)
+        {
+            Form ck = new Danhmuccackhoa();
+            ck.Show();
         }
     }
 }

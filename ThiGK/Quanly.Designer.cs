@@ -6,7 +6,7 @@
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+      
         /// <summary>
         /// Clean up any resources being used.
         /// </summary>
@@ -102,6 +102,7 @@
             this.btn_danhmuccackhoa.TabIndex = 5;
             this.btn_danhmuccackhoa.Text = "Danh mục các khoa";
             this.btn_danhmuccackhoa.UseVisualStyleBackColor = true;
+            this.btn_danhmuccackhoa.Click += new System.EventHandler(this.btn_danhmuccackhoa_Click);
             // 
             // btn_exit
             // 

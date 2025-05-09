@@ -22,4 +22,4 @@ C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.csproj.GenerateResource.cache
 C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.csproj.CoreCompileInputs.cache
 C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.exe
 C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.pdb
-C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.Danhmucackhoa.resources
+C:\Users\wonne\Downloads\ThiGK\obj\Debug\ThiGK.Danhmuccackhoa.resources
