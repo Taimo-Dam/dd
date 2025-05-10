@@ -35,5 +35,15 @@ namespace ThiGK
         {
 
         }
+        private void danhmucmonhoc_Load(object sender, EventArgs e)
+        { 
+        }
+
+        private void btn_back_Click(object sender, EventArgs e)
+        {
+            Form exit = new Quanly();
+            exit.Show();
+            this.Hide();
+        }
     }
 }

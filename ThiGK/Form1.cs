@@ -43,6 +43,7 @@ namespace ThiGK
             {
                 Form ql = new Quanly();
                 ql.Show();
+                this.Hide();
             } 
         }
 

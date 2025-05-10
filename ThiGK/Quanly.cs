@@ -46,7 +46,9 @@ namespace ThiGK
 
         private void btn_exit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Form exit = new Form1();
+            exit.Show();
+            this.Hide();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -80,6 +82,7 @@ namespace ThiGK
         {
             Form mh = new Danhmucmonhoc();
             mh.Show();
+            this.Hide();
         }
         private void btn_thongtintk_Click(object sender, EventArgs e)
         {
@@ -94,6 +97,7 @@ namespace ThiGK
         {
             Form ck = new Danhmuccackhoa();
             ck.Show();
+            this.Hide();
         }
     }
 }
